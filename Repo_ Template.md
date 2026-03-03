@@ -1,7 +1,6 @@
 
 
 
-
 <br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]**
@@ -9,10 +8,9 @@
 <br><br>
 
 
-#  <p align="center"> 2- 🔐 [Cybersecurity and Social Engineering ]() / [XXXXXXXX]()
+#  <p align="center"> X- 🔐 [Cybersecurity and Social Engineering ]() / [XXXXXXXX()
 
-#### Governance-oriented Project Management framework for Cybersecurity and Social Engineering initiatives, aligned with PMI/PMBOK best practices, integrating risk, quality, and secure-by-design principles for AI and technology-driven projects.
-
+XXXXXXxXXXXXXXXXXXXXXXXXXX
 
 <br><br>
 
@@ -33,12 +31,12 @@
 <br><br>
 
 
-### Cybersecurity and Social Engineering -  XXXXXXX - PUC-SP 5th Semester (2026)
+### Cybersecurity and Social Engineering - XXXXXXXXX - PUC-SP 5th Semester (2026)
 
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 72 Hours <br>
+[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering - 72 Hours <br>
 **Professor:**  [✨  Eduardo Savino Gomes]()  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
 
@@ -89,10 +87,24 @@
 
 
 
-
-
-
-
+> [!TIP]
+> 
+> ## Project Management Companion Repository
+>
+> This repository serves as a dedicated **Project Management layer** for the broader Cybersecurity and Social Engineering initiative.  
+> It centralizes governance models, structured methodologies, risk frameworks, and execution best practices applied to:
+>
+> - Data Science  
+> - Artificial Intelligence  
+> - Cybersecurity initiatives  
+> - Secure technology projects  
+>
+> #
+>
+> ### 🔗 Access the Main Repository
+> [Cybersecurity and Social Engineering – Main Repository](https://github.com/Quantum-Software-Development/1-Main_Cybersecurity_SocialEngineering_Repository) 
+> <br>
+> 
 
 
 
