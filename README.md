@@ -127,7 +127,7 @@ It is designed to integrate **theoretical foundations, applied methodologies, an
 -  [**Ethical Hacking**]() — penetration testing concepts and responsible exploitation  
 
 
-<br><br>
+<br><br><br><br>
 
 
 ##  [Objective]()
@@ -142,7 +142,7 @@ The course aims to develop a **comprehensive understanding of vulnerabilities** 
 with a strong focus on [**AI-driven environments and emerging risks**]().     
 
 
-br><br>
+<br><br>
 
 
 ## [Core Learning Pillars]()
@@ -160,7 +160,34 @@ br><br>
 
 
 
+## Weekly Classes Schedule
 
+**Complete 18-week roadmap – 2026**
+
+
+| Week | Topic | Resources | Status |
+| :-- | :-- | :-- | :-- |
+| 1 | Introduction \& Cybersecurity Foundations | [Slides]() [Notes]() | Planned |
+| 2 | Authentication \& Password Security | [Slides]() [Video]() | Planned |
+| 3 | Malware \& Threat Actors | [Slides]() [Lab]() | Planned |
+| 4 | Network Security Fundamentals | [Slides]() [Code]() | Planned |
+| 5 | Encryption \& Cryptography | [Slides]() [Demo]() | Planned |
+| 6 | Social Engineering Fundamentals | [Slides]() [Video]() | Planned |
+| 7 | Phishing \& Pretexting | [Slides]() [Simulation]() | Planned |
+| 8 | Midterm Labs \& Review | [Slides]() [Quiz]() | Planned |
+| 9 | Advanced Social Attacks | [Slides]() [Lab]() | Planned |
+| 10 | AI in Cybersecurity | [Slides]() [Code]() | Planned |
+| 11 | Defense Strategies | [Slides]() [Project]() | Planned |
+| 12 | Ethical Hacking Basics | [Slides]() [Demo]() | Planned |
+| 13 | Real Case Studies | [Slides]() [Video]() | Planned |
+| 14 | Group Projects | [Slides]() [Repository]() | Planned |
+| 15 | Project Presentations | [Slides]() | Planned |
+| 16 | Advanced Topics | [Slides]() | Planned |
+| 17 | Ethics \& AI Safety | [Slides]() | Planned |
+| 18 | Final Review \& Exam | [Slides]() [Exam]() | Planned |
+
+
+<br><br>
 
 
 
