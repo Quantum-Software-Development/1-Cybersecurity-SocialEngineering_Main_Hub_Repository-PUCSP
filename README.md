@@ -212,7 +212,9 @@ Each week should contain:
 <br><br>
 
 
- ## [Extension \& Applied Projects / Repositories]
+ ## [Extension \& Applied Projects / Repositories]()
+
+ <br>
 
 | Project | Description | Status |
 | :-- | :-- | :-- |
@@ -220,6 +222,11 @@ Each week should contain:
 | Social Engineering Simulator | Awareness training simulation | Coming Soon |
 | AI Security Toolkit | Monitoring and protection utilities | Coming Soon |
 | CTF Challenges | Capture The Flag exercises | Coming Soon |
+
+
+Projects are structured to be publicly documented and version-controlled.
+
+<br>
 
 
 
