@@ -139,13 +139,17 @@ The course aims to develop a **comprehensive understanding of vulnerabilities** 
 [-]()  Anticipate complex threat scenarios  
 [-]()  Design and implement effective defensive solutions  
 
+<br>
+
 with a strong focus on [**AI-driven environments and emerging risks**]().     
 
 
 <br><br>
 
 
-## [Core Learning Pillars]()
+## [Core Learning Pillars]()<br>
+
+
 
 | [Pillar]() | [What You Will Master]() | [Practical Application]() |
 | :-- | :-- | :-- |
@@ -200,6 +204,8 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 | AI Security Toolkit | Monitoring and protection utilities | Coming Soon |
 | CTF Challenges | Capture The Flag exercises | Coming Soon |
 
+
+<br>
 
 > [!IMPORTAT]
 > 
