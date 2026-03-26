@@ -149,10 +149,10 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 | [Pillar]() | [What You Will Master]() | [Practical Application]() |
 | :-- | :-- | :-- |
-| Technical Cybersecurity | Firewalls, encryption, IDS/IPS, malware analysis | Securing AI infrastructures |
-| Social Engineering | Phishing, pretexting, baiting, tailgating | Human vulnerability prevention |
-| AI Security | Adversarial AI, model poisoning, secure ML pipelines | Protecting ML models |
-| Hands-on Labs | Ethical hacking, penetration testing, CTF exercises | Real-world simulation |
+| [Technical Cybersecurity]() | Firewalls, encryption, IDS/IPS, malware analysis | Securing AI infrastructures |
+| [Social Engineering]() | Phishing, pretexting, baiting, tailgating | Human vulnerability prevention |
+| [AI Security]() | Adversarial AI, model poisoning, secure ML pipelines | Protecting ML models |
+| [Hands-on Labs]() | Ethical hacking, penetration testing, CTF exercises | Real-world simulation |
 
 
 <br><br>
