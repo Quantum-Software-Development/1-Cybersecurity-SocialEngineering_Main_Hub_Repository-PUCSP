@@ -147,7 +147,7 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 ## [Core Learning Pillars]()
 
-| Pillar | What You Will Master | Practical Application |
+| [Pillar]() | [What You Will Master]() | [Practical Application]() |
 | :-- | :-- | :-- |
 | Technical Cybersecurity | Firewalls, encryption, IDS/IPS, malware analysis | Securing AI infrastructures |
 | Social Engineering | Phishing, pretexting, baiting, tailgating | Human vulnerability prevention |
