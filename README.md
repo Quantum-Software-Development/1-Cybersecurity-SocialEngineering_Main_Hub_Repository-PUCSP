@@ -150,21 +150,26 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 <br><br>
 
 
-## [Core Learning Pillars]()<br>
+## [Core Learning Pillars]()
 
+<br>
 
+| **Pillar** | **Technical Focus** | **Applied Outcome** | **Kid Analogy** |
+|------------|-------------------|-------------------|-----------------|
+| **Cybersecurity Foundations** | Encryption, IDS/IPS, firewalls | Infrastructure protection | Digital castle walls |
+| **Social Engineering** | Phishing, pretexting, baiting | Human risk mitigation | Tricking the guards |
+| **AI Security** | Adversarial ML, model poisoning | Secure ML pipelines | Poisoning the well |
+| **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
+| **Pillar** | **Technical Focus** | **Applied Outcome** | **Kid Analogy** |
+|------------|-------------------|-------------------|-----------------|
+| **Cybersecurity Foundations** | Encryption, IDS/IPS, firewalls | Infrastructure protection | Digital castle walls |
+| **Social Engineering** | Phishing, pretexting, baiting | Human risk mitigation | Tricking the guards |
+| **AI Security** | Adversarial ML, model poisoning | Secure ML pipelines | Poisoning the well |
+| **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
 
-| [Pillar]() | [What You Will Master]() | [Practical Application]() |
-| :-- | :-- | :-- |
-| [Technical Cybersecurity]() | Firewalls, encryption, IDS/IPS, malware analysis | Securing AI infrastructures |
-| [Social Engineering]() | Phishing, pretexting, baiting, tailgating | Human vulnerability prevention |
-| [AI Security]() | Adversarial AI, model poisoning, secure ML pipelines | Protecting ML models |
-| [Hands-on Labs]() | Ethical hacking, penetration testing, CTF exercises | Real-world simulation |
 
 
 <br><br>
-
-
 
 
 ## [Weekly Roadmap /Classes Schedule]()
