@@ -168,6 +168,27 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 | **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
 
 
+<br><br>
+
+## [Course Scope]()
+
+<br>
+
+**72-hour comprehensive program** covering:
+
+<br>
+
+
+- Authentication + password security<br>
+- Malware analysis + threat actors<br>
+- Network security fundamentals<br>
+- Cryptography + secure communication<br>
+- Social engineering tactics + prevention<br>
+- AI applications in cybersecurity<br>
+- Ethical hacking methodologies<br>
+- Defense architecture design<br>
+
+
 
 <br><br>
 
