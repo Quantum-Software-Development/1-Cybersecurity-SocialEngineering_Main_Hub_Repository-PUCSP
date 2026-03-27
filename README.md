@@ -93,21 +93,19 @@ It features hands-on labs, ethical hacking simulations, AI-driven security pract
 
 ## Table of Contents
 
-- [Course Overview](#course-overview)
-- [Core Areas](#core-areas)
-- [Objective](#objective)
-- [Core Learning Pillars](#core-learning-pillars)
-- [Weekly Classes Schedule](#weekly-classes-schedule)
-- [Folder Structure](#folder-structure)
-- [Related Project Repositories](#related-project-repositories)
-- [Professor Information](#professor-information)
-- [Quick Start Guide](#quick-start-guide)
-- [Grading \& Assessment](#grading--assessment)
-- [Learning Resources](#learning-resources)
-- [Tooling Stack](#tooling-stack)
-- [Contributing Guidelines](#contributing-guidelines)
-- [License](#license)
-- [Repository Stats](#repository-stats)
+- [Course Information](#course-information)
+- [Syllabus (Short Version)](#syllabus-short-version)
+- [Learning Objectives](#learning-objectives)
+- [Weekly Roadmap (Programmatic Content)](#weekly-roadmap-programmatic-content)
+- [Official Extension Project (Project Integrator 1 – 2 Subprojects)](#official-extension-project-project-integrator-1--2-subprojects)
+  - [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction](#stage-1--consuming-thirdparty-apis-dashboards-and-prediction)
+  - [Stage 2 – RESTful API Built on a SQL Database (Extension Requirement)](#stage-2--restful-api-built-on-a-sql-database-extension-requirement)
+- [Course Projects (Planned)](#course-projects-planned)
+- [Assessment](#assessment)
+- [Methodology](#methodology)
+- [Bibliography](#bibliography)
+- [Suggested Folder Structure (Planned)](#suggested-folder-structure-planned)
+
 
 
 <br><br>
