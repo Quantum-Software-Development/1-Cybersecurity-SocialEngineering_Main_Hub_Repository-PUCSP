@@ -87,7 +87,7 @@
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Course Overview](#course-overview)
 - [Core Areas](#core-areas)
