@@ -275,7 +275,13 @@ This stage already counts towards the [**20 extension hours**](0, as it uses rea
 <br><br>
 
 
+### [**]Stage 2**]() – RESTful API Built on a SQL Database (Extension Requirement)
 
+The **second subproject** in the briefing explicitly requires building an API:
+
+[**Theme:**:]() “Develop an API using the RESTful architecture from a SQL database, considering any real context with at least 3 (three) tables.”[file:2]
+
+[**Objective:**]() design and implement a **SQL database (≥ 3 tables)** and expose the processed/aggregated data through a **RESTful Web Service**.
 
 
 
