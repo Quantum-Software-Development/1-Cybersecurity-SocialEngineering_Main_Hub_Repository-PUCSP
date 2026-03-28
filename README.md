@@ -314,8 +314,9 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 > [!IMPORTANT]
 > 
 >  ⚠️ Projects are structured to be publicly documented and version-controlled. <br>
-> 
-
+>
+> Together, **Stage 1 + Stage 2** form the official **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.<br>
+>
 
 <br><br>
 
