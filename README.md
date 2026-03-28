@@ -8,13 +8,20 @@
 
 #  <p align="center"> 1- 🔐 [Cybersecurity and Social Engineering ]() / [Main Repository]()
 
- 
-[Main repository]() for the PUC-SP 5th Semester [Academic Hub]() (2026), centered on the course [“Cybersecurity and Social Engineering”]() within the Data Science and Artificial Intelligence program at Pontifícia Universidade Católica de São Paulo (FACEI).
+ ><br>
 
-This repository integrates theoretical foundations and hands-on practice, covering topics such as cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
 
-It features hands-on labs, ethical hacking simulations, AI-driven security practices, threat analysis, and applied defense strategies, all aligned with real-world security scenarios and contemporary challenges in AI, cyber risk, and intelligent systems.
+[**Main Repository Hub**]() for the course [**“Cybersecurity and Social Engineering”**]() within the [**Data Science and Humanistic Artificial Intelligence**]() program at [**PUC-SP (FACEI, 5th semester)**]().
 
+This repository is focused on [**cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects leveraging Web Services and Machine Learning**]().
+
+It integrates [**theoretical foundations with hands-on practice**](), providing a comprehensive learning environment that bridges academic knowledge and real-world application. Topics include cybersecurity, social engineering, distributed architectures, API ecosystems, and data-driven intelligence.
+
+The repository features **hands-on labs, ethical hacking simulations, AI-driven security practices, threat analysis, and applied defense strategies**, all aligned with contemporary challenges in [**cyber risk, artificial intelligence, and intelligent systems**]().
+
+Additionally, [**PUC-SP**]() is an institutional partner of [**Bloomberg**]() and hosts a dedicated Bloomberg Laboratory on campus. This infrastructure provides access to [**Bloomberg data, terminals, and APIs**]() for both students and faculty.
+
+This repository also documents **academic and extension projects** that integrate [**Bloomberg APIs with public data sources**]() (such as the Central Bank of Brazil), supporting use cases in **cybersecurity, financial intelligence, and OSINT-oriented analysis**.
 
 
 <br><br>
