@@ -196,64 +196,51 @@ By the end of the course, students should be able to:
 <br><br>
 
 
+## Weekly Roadmap (Programmatic Content)
 
-
-
-
-
-
-
-
-<br><br>
-
-## [Course Scope]()
-
-<br>
-
-**72-hour comprehensive program** covering:
-
-<br>
-
-
-- Authentication + password security<br>
-- Malware analysis + threat actors<br>
-- Network security fundamentals<br>
-- Cryptography + secure communication<br>
-- Social engineering tactics + prevention<br>
-- AI applications in cybersecurity<br>
-- Ethical hacking methodologies<br>
-- Defense architecture design<br>
+| Week | Topics | Notes |
+|------|--------|-------|
+| 1 | Course introduction, bibliography, grading criteria, **information security problems**, project management. | Opening and context. |
+| 2 | **Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format. | Technical foundations. |
+| 3 | **CRISP‑DM** process. | Data mining methodology. |
+| 4 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project.|
+| 5 | Project support (API + data analysis). | Follow-up. |
+| 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review. |
+| 7 | Building dashboards in Python. | Dashboard construction. |
+| 8 | Group presentations of the WebService project. | 1st project evaluation.|
+| 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project. |
+| 10 | Big Data concepts. | Theory. |
+| 11 | NoSQL databases. | Non-relational models.|
+| 12 | Hadoop ecosystem. | Distributed processing. |
+| 13 | Spark. | Big Data processing. |
+| 14 | Spark (continuation). | Applications. |
+| 15 | Developing the final project. | Group work. |
+| 16 | Developing the final project. | Group work.|
+| 17 | Developing the final project. | Group work. |
+| 18 | Final project presentations (groups). | 2nd project evaluation
 
 
 
 <br><br>
 
 
-## [Weekly Roadmap /Classes Schedule]()
-
-<br>
 
 
-| **Week** | **Date (2026)** | **Topic** | **Status** |
-|----------|----------------|-----------|------------|
-| **1** | [Introduction to Cybersecurity]() |  Planned |
-| **2** | [Authentication & Passwords]() |  Planned |
-| **3** | [Malware & Threat Actors]() |  Planned |
-| **4** | [Network Security]() |  Planned |
-| **5** | [Encryption & Cryptography]() |  Planned |
-| **6** | [Social Engineering Fundamentals]() |  Planned |
-| **7** | [Phishing & Pretexting]() |  Planned |
-| **8** | [Midterm Labs & Review]() |  Planned |
-| **9** | [Advanced Social Attacks]() |  Planned |
-| **10** | [AI in Cybersecurity]() |  Planned |
-| **11** | [Defensive Architectures]() |  Planned |
-| **12** | [Ethical Hacking]() |  Planned |
-| **13** | [Real Case Studies]() | Planned |
-| **14** | [Group Projects]() |  Planned |
-| **15** | [Presentations]() |  Planned |
-| **16** | [Advanced Topics]() |  Planned |
-| **17** | [AI Ethics & Compliance]() |  Planned |
-| **18** | [Final Assessment |  Planned |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
