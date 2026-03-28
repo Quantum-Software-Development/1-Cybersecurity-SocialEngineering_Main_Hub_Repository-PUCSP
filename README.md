@@ -96,19 +96,17 @@ This enables the integration of **real-world financial data** into cybersecurity
 
 ## Table of Contents
 
-- [Course Overview](#course-overview)
-- [Objective](#objective)
-- [Learning Objectives](#learning-objectives)
-- [Weekly Roadmap (Programmatic Content)](#weekly-roadmap-programmatic-content)
-- [Official Extension Project (Project Integrator 1 – 2 Subprojects)](#official-extension-project-project-integrator-1--2-subprojects)
-  - [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction](#stage-1--consuming-third-party-apis-dashboards-and-prediction)
-  - [Stage 2 – RESTful API Built on a SQL Database (Extension Requirement)](#stage-2--restful-api-built-on-a-sql-database-extension-requirement)
-- [Related Projects (Planned)](#related-projects)
-- [Assessment](#assessment)
+- [Overview](#overview)
+- [System Architecture](#system-architecture)
+- [Security Architecture](#security-architecture-zero-trust)
 - [Methodology](#methodology)
-- [Bibliography](#bibliography)
-- [Suggested Folder Structure (Planned)](#suggested-folder-structure-planned)
-
+- [Integrated Extension Project](#integrated-extension-project-core-implementation)
+- [Weekly Roadmap](#weekly-roadmap-programmatic-content)
+- [Applied Projects](#applied-projects-extended-use-cases)
+- [Technologies](#technologies)
+- [Results and Discussion](#results-and-discussion)
+- [Conclusion](#conclusion)
+- [Keywords](#keywords)
 
 
 <br><br>
@@ -150,6 +148,8 @@ It connects theory and practice through **real-world data pipelines and secure a
 
 
 <!-- DETAILED=========
+
+
 
 ##  [Course Overview]()
 
