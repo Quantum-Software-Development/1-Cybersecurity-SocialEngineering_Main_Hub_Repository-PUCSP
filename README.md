@@ -13,6 +13,16 @@
 <br><br>
 
 
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
+ 
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
+
 <!-- PUC HEADER GIF -->
 
 <p align="center">
@@ -23,17 +33,11 @@
 <br><br>
 
 
+<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python" /> <img src="https://img.shields.io/badge/API-REST-green" /> <img src="https://img.shields.io/badge/Security-Zero%20Trust-red" /> <img src="https://img.shields.io/badge/Machine%20Learning-AI-purple" /> <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-orange" /></p>
 
-<p align="center">
 
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
-![API](https://img.shields.io/badge/API-REST-green)
-![Security](https://img.shields.io/badge/Security-Zero%20Trust-red)
-![ML](https://img.shields.io/badge/Machine%20Learning-AI-purple)
-![Bloomberg](https://img.shields.io/badge/Data-Bloomberg%20Lab-orange)
 
-</p>
-
+<br><br>
 
 ## [Abstract]()
 
@@ -43,17 +47,6 @@ The environment is supported by a recently established [Bloomberg Laboratory at 
 
 The project is structured around a complete data pipeline, including data ingestion from external APIs, transformation, storage in relational databases, and exposure through RESTful services, combined with predictive modeling and anomaly detection.
 
-
-
-<br><br>
-
-
-
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
 <br><br>
