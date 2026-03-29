@@ -7,18 +7,20 @@
 
 
 #  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Repository]()
-###  <p align="center"> Applied Data Science, Web Intelligence and Threat Analysis @ PUC-SP
+###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
 
- <br>
-
-[**PUC-SP has recently established a dedicated Bloomberg Laboratory on campus**](), providing access to Bloomberg’s professional financial infrastructure, including terminals, datasets, and APIs.
-
-This enables the integration of **real-world financial data** into cybersecurity, OSINT, and data intelligence applications.
-
-<br>
+ 
+<br><br>
 
 
 
+## [Abstract]()
+
+This work presents an integrated academic and applied framework for cybersecurity, social engineering analysis, and artificial intelligence system protection. The proposed approach combines data-driven methodologies, distributed systems, and machine learning techniques to address contemporary challenges in cyber risk and intelligent system security.
+
+The environment is supported by a recently established [Bloomberg Laboratory at PUC-SP](), enabling access to [professional financial data](), [APIs](), and [analytical tools](). This infrastructure allows the integration of real-world financial datasets into cybersecurity and OSINT-oriented workflows.
+
+The project is structured around a complete data pipeline, including data ingestion from external APIs, transformation, storage in relational databases, and exposure through RESTful services, combined with predictive modeling and anomaly detection.
 
 <br><br>
 
@@ -106,7 +108,7 @@ This enables the integration of **real-world financial data** into cybersecurity
 - [Technologies](#technologies)
 - [Results and Discussion](#results-and-discussion)
 - [Conclusion](#conclusion)
-- [Keywords](#keywords)
+
 
 
 <br><br>
@@ -126,7 +128,208 @@ It connects theory and practice through **real-world data pipelines and secure a
 
 <br><br>
 
+<br>
 
+**\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
+
+<br><br>
+
+# Cybersecurity, Social Engineering and AI Security  
+### Applied Data Science, Web Intelligence and Threat Analysis @ PUC-SP
+
+<br>
+
+**PUC-SP has recently established a dedicated Bloomberg Laboratory on campus**, providing access to Bloomberg’s professional financial infrastructure, including terminals, datasets, and APIs.
+
+This enables the integration of **real-world financial data** into cybersecurity, OSINT, and data intelligence applications.
+
+<br>
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [System Architecture](#system-architecture)
+- [Security Architecture](#security-architecture-zero-trust)
+- [Methodology](#methodology)
+- [Integrated Extension Project](#integrated-extension-project-core-implementation)
+- [Weekly Roadmap](#weekly-roadmap-programmatic-content)
+- [Applied Projects](#applied-projects-extended-use-cases)
+- [Technologies](#technologies)
+- [Results and Discussion](#results-and-discussion)
+- [Conclusion](#conclusion)
+- [Keywords](#keywords)
+
+<br><br>
+
+---
+
+## Overview
+
+This repository defines a **data-driven cybersecurity framework** integrating:
+
+- Cybersecurity and social engineering  
+- Artificial intelligence and anomaly detection  
+- Web Services and distributed systems  
+- Financial and OSINT-based intelligence  
+
+It connects theory and practice through **real-world data pipelines and secure architectures**.
+
+<br><br>
+
+---
+
+## System Architecture
+
+The system follows a **multi-layered architecture**:
+
+1. Data Sources (Bloomberg APIs, external APIs, OSINT)  
+2. Secure Access Layer (JWT, OAuth2, RBAC)  
+3. Data Ingestion  
+4. Data Processing  
+5. Secure Storage (SQL / NoSQL)  
+6. Intelligence Layer (ML, anomaly detection)  
+7. Application Layer (REST APIs, dashboards)  
+8. Monitoring Layer  
+
+<br><br>
+
+---
+
+## Security Architecture (Zero Trust)
+
+- Continuous verification  
+- Least privilege  
+- Encryption (TLS + at rest)  
+- OWASP protection  
+- Secure API gateways  
+- Monitoring and anomaly detection  
+
+<br><br>
+
+---
+
+## Methodology
+
+CRISP-DM:
+
+1. Business understanding  
+2. Data understanding  
+3. Data preparation  
+4. Modeling  
+5. Evaluation  
+6. Deployment  
+
+<br><br>
+
+---
+
+## Integrated Extension Project (Core Implementation)
+
+### Stage 1 — Data Analysis and Prediction
+
+- API consumption  
+- Data processing and visualization  
+- SQL storage  
+- Machine learning models  
+
+### Stage 2 — RESTful API
+
+- SQL database design (≥ 3 tables)  
+- REST API development  
+- Authentication (JWT)  
+- Data exposure  
+
+### Pipeline
+
+Data Sources → Processing → SQL → ML → REST API → Applications  
+
+<br><br>
+
+---
+
+## Weekly Roadmap (Programmatic Content)
+
+| Week | Topics | Description |
+|------|--------|------------|
+| 1 | Introduction | Security concepts, course structure |
+| 2 | Distributed Systems | Client-server, HTTP, REST |
+| 3 | CRISP-DM | Data methodology |
+| 4 | APIs | Data collection (RapidAPI) |
+| 5 | Project Work | API + processing |
+| 6 | Data Analysis | Pandas, NumPy, visualization |
+| 7 | Dashboards | Data presentation |
+| 8 | Presentation | Stage 1 results |
+| 9 | Final Project | Definition |
+| 10 | Big Data | Concepts |
+| 11 | NoSQL | Databases |
+| 12 | Hadoop | Distributed processing |
+| 13 | Spark | Data processing |
+| 14 | Spark | Continuation |
+| 15 | Project Dev | Final system |
+| 16 | Project Dev | Implementation |
+| 17 | Project Dev | Finalization |
+| 18 | Presentation | Final evaluation |
+
+<br><br>
+
+---
+
+## Applied Projects (Extended Use Cases)
+
+### Financial Anomaly Detection
+- Bloomberg data  
+- Time-series models  
+- Risk detection  
+
+### OSINT Threat Intelligence
+- Public data  
+- Pattern recognition  
+- Threat classification  
+
+### Social Engineering Analysis
+- Behavioral data  
+- Risk modeling  
+
+<br><br>
+
+---
+
+## Technologies
+
+- Python (Pandas, NumPy, Plotly)  
+- REST APIs (FastAPI / Flask)  
+- SQL / NoSQL  
+- Machine Learning  
+- Hadoop / Spark  
+
+<br><br>
+
+---
+
+## Results and Discussion
+
+- Scalable pipelines  
+- Real-world data integration  
+- Improved anomaly detection  
+- Strong alignment with industry  
+
+<br><br>
+
+
+
+## Conclusion
+
+A complete framework integrating cybersecurity, AI, and real-world data infrastructures, validated through an applied extension project.
+
+<br><br>
+
+---
+
+## Keywords
+
+Cybersecurity, Social Engineering, Machine Learning, APIs, OSINT, Zero Trust, Data Engineering
 
 
 
