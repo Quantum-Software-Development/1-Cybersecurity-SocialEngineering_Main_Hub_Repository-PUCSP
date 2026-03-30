@@ -251,34 +251,39 @@ Data Sources → Processing → SQL → ML → REST API → Applications
 
 <br><br>
 
----
+
 
 ## Weekly Roadmap (Programmatic Content)
 
-| Week | Topics | Description |
-|------|--------|------------|
-| 1 | Introduction | Security concepts, course structure |
-| 2 | Distributed Systems | Client-server, HTTP, REST |
-| 3 | CRISP-DM | Data methodology |
-| 4 | APIs | Data collection (RapidAPI) |
-| 5 | Project Work | API + processing |
-| 6 | Data Analysis | Pandas, NumPy, visualization |
-| 7 | Dashboards | Data presentation |
-| 8 | Presentation | Stage 1 results |
-| 9 | Final Project | Definition |
-| 10 | Big Data | Concepts |
-| 11 | NoSQL | Databases |
-| 12 | Hadoop | Distributed processing |
-| 13 | Spark | Data processing |
-| 14 | Spark | Continuation |
-| 15 | Project Dev | Final system |
-| 16 | Project Dev | Implementation |
-| 17 | Project Dev | Finalization |
-| 18 | Presentation | Final evaluation |
+| Week | Topics | Notes |
+|------|--------|-------|
+| 1 | Course introduction, bibliography, grading criteria, **information security problems**, project management. | Opening and context. |
+| 2 | **Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format. | Technical foundations. |
+| 3 | **CRISP‑DM** process. | Data mining methodology. |
+| 4 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project.|
+| 5 | Project support (API + data analysis). | Follow-up|
+| 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review.|
+| 7 | Building dashboards in Python. | Dashboard construction. |
+| 8 | Group presentations of the WebService project. | 1st project evaluatio |
+| 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project.[fi|
+| 10 | Big Data concepts. | Theory. |
+| 11 | NoSQL databases. | Non-relational models.|
+| 12 | Hadoop ecosystem. | Distributed processing.[ |
+| 13 | Spark. | Big Data processing.|
+| 14 | Spark (continuation). | Applications. |
+| 15 | Developing the final project. | Group work.|
+| 16 | Developing the final project. | Group work.|
+| 17 | Developing the final project. | Group work. |
+| 18 | Final project presentations (groups). | 2nd project evaluation.
 
 <br><br>
 
----
+
+
+
+
+
+<!-- PROJECTS DESCRIPTION
 
 ## Applied Projects (Extended Use Cases)
 
@@ -298,7 +303,7 @@ Data Sources → Processing → SQL → ML → REST API → Applications
 
 <br><br>
 
----
+
 
 ## Technologies
 
@@ -310,7 +315,6 @@ Data Sources → Processing → SQL → ML → REST API → Applications
 
 <br><br>
 
----
 
 ## Results and Discussion
 
@@ -329,13 +333,13 @@ A complete framework integrating cybersecurity, AI, and real-world data infrastr
 
 <br><br>
 
----
+
 
 ## Keywords
 
 Cybersecurity, Social Engineering, Machine Learning, APIs, OSINT, Zero Trust, Data Engineering
 
-
+--->
 
 
 
