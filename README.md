@@ -6,7 +6,7 @@
 <br><br>
 
 
-#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Repository]()
+#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
 
  
@@ -46,8 +46,27 @@
 
 
 
-<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python" /> <img src="https://img.shields.io/badge/API-REST-green" /> <img src="https://img.shields.io/badge/Security-Zero%20Trust-red" /> <img src="https://img.shields.io/badge/Machine%20Learning-AI-purple" /> <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-orange" /></p>
+## [Cybersecurity and Social Engineering Integrated Project]() - PUC-SP 5th Semester (2026)
 
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering  - 72 Hours <br>
+**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
+[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+
+
+<br><br>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-007ACC?logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/API-REST-00A676" />
+  <img src="https://img.shields.io/badge/Security-Zero%20Trust-008B8B" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-20B2AA" />
+  <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
+</p>
 
 <!--Confidentiality statement -->
 
