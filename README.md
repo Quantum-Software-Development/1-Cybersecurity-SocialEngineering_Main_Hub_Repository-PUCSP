@@ -56,7 +56,7 @@
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -71,7 +71,9 @@
 <!--Confidentiality statement -->
 
 
-<br><br
+<br><br><br>
+
+
 
 > [!NOTE]
 > 
@@ -94,17 +96,16 @@
 
 #
 
+<br>
+
 <!--END Confidentiality statement -->
 
-
-<br><br>
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
 
-<br><br>
 
 ## [Abstract]()
 
