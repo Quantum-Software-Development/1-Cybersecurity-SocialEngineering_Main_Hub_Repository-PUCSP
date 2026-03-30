@@ -36,34 +36,6 @@
 <p align="center"><img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python" /> <img src="https://img.shields.io/badge/API-REST-green" /> <img src="https://img.shields.io/badge/Security-Zero%20Trust-red" /> <img src="https://img.shields.io/badge/Machine%20Learning-AI-purple" /> <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-orange" /></p>
 
 
-
-<br><br>
-
-## [Abstract]()
-
-This work presents an integrated academic and applied framework for cybersecurity, social engineering analysis, and artificial intelligence system protection. The proposed approach combines data-driven methodologies, distributed systems, and machine learning techniques to address contemporary challenges in cyber risk and intelligent system security.
-
-The environment is supported by a recently established [Bloomberg Laboratory at PUC-SP](), enabling access to [professional financial data](), [APIs](), and [analytical tools](). This infrastructure allows the integration of real-world financial datasets into cybersecurity and OSINT-oriented workflows.
-
-The project is structured around a complete data pipeline, including data ingestion from external APIs, transformation, storage in relational databases, and exposure through RESTful services, combined with predictive modeling and anomaly detection.
-
-
-
-<br><br>
-
-### Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)
-
-
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering  - 72 Hours <br>
-**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
-[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
-
-<br><br>
-
-
-
 <!--Confidentiality statement -->
 
 
@@ -98,6 +70,36 @@ The project is structured around a complete data pipeline, including data ingest
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
+
+<br><br>
+
+## [Abstract]()
+
+This work presents an integrated academic and applied framework for cybersecurity, social engineering analysis, and artificial intelligence system protection. The proposed approach combines data-driven methodologies, distributed systems, and machine learning techniques to address contemporary challenges in cyber risk and intelligent system security.
+
+The environment is supported by a recently established [Bloomberg Laboratory at PUC-SP](), enabling access to [professional financial data](), [APIs](), and [analytical tools](). This infrastructure allows the integration of real-world financial datasets into cybersecurity and OSINT-oriented workflows.
+
+The project is structured around a complete data pipeline, including data ingestion from external APIs, transformation, storage in relational databases, and exposure through RESTful services, combined with predictive modeling and anomaly detection.
+
+
+
+<br><br>
+
+### Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)
+
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering  - 72 Hours <br>
+**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
+[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+
+<br><br>
+
+
+
 
 
 ## Table of Contents
