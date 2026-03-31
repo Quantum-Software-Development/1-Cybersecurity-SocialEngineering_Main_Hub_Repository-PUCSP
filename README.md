@@ -42,6 +42,7 @@
 <!-- ========= START Institucional INFO ========= -->
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
+<br>
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)  <br>
 [**School:**]() FACEI – Faculty of Interdisciplinary Studies  <br>
@@ -107,12 +108,6 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 >
 
 <br><br>
-
-#
-
-<br><br>
-<!-- ========= END Confidentiality statement  ========= -->
-
 
 <!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
 
