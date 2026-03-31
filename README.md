@@ -1,4 +1,7 @@
 
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
 <br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
@@ -6,31 +9,34 @@
 <br><br>
 
 
+
+
+<!-- ========= START REPO TITLE ========= -->
 #  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
-
  
 <br><br>
+<!-- ========= END REPO TITLE ========= -->
 
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-
- 
+<!-- ========= START SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
 <br><br>
+<!-- ========= END SPONSORT BADGE ========= -->
 
-<!-- PUC HEADER GIF -->
 
+
+<!-- =========  START PUC HEADER GIF ========= -->
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
-
 <br><br>
+<!-- =========  END PUC HEADER GIF ========= -->
+
+
 
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
@@ -45,7 +51,7 @@
 <br><br><br>
 
 
-
+<!-- ========= START BADGES ========= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-007ACC?logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/API-REST-00A676" />
@@ -56,12 +62,14 @@
 
 
 <br><br>
-
 #
 
 <br><br>
+<!-- ========= END START BADGES ========= -->
 
 
+
+<!-- ========= START Repo Introductio ========= -->
 Main [**Hub Repository**]() for the course **“Segurança Cibernética e Engenharia Social”** of the [**Data Science and Artificial Intelligence**]() program at PUC‑SP (FACEI, 5th semester), centralizing documentation and links to related project repositories focused on cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
 
 <br>
@@ -75,10 +83,10 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 #
 
 <br><br>
+<!-- ========= END Repo Introductio ========= -->
 
 
-<!--Confidentiality statement -->
-
+<!-- ========= START Confidentiality statement ========= -->
 
 > [!NOTE]
 > 
@@ -95,15 +103,15 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 >
 >
 
-
-
 <br><br>
 
 #
 
 <br><br>
+<!-- ========= END Confidentiality statement  ========= -->
 
 
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
 
@@ -132,7 +140,6 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 
 
 <!-- ======================================= Start DEFAULT Footer ===========================================  -->
-
 <br><br>
 
 
@@ -166,9 +173,6 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 #
  
 ##### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
-
-
-
 
 <!-- ======================================= End  DEFAULT Footer ===========================================  -->
 
