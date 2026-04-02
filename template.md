@@ -15,11 +15,11 @@
 
 
 <!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
+#  <p align="center"> - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
  
 <br><br>
-<!-- ========= END REPO TITLE ========= -->
+<!-- ========= START REPO TITLE ========= -->
 
 
 <!-- ========= START SPONSORT BADGE ========= -->
@@ -74,11 +74,8 @@
 
 
 <!-- ========= START Repo Introductio ========= -->
-Main [**Hub Repository**]() for the course **“Segurança Cibernética e Engenharia Social”** of the [**Data Science and Artificial Intelligence**]() program at PUC‑SP (FACEI, 5th semester), centralizing documentation and links to related project repositories focused on cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
-
-<br>
-
-PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated Bloomberg laboratory on campus, which provides access to Bloomberg data, terminals and APIs for students and faculty. This repository documents projects that make academic use of Bloomberg APIs together with public data sources (such as the Central Bank of Brazil) in the context of cybersecurity, financial intelligence and OSINT‑oriented analysis.
+XXXXXXX
+XXXX
 
 
 
