@@ -120,7 +120,6 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 ## Table of Contents
 
 - [Repository Overview](#-repository-overview)
-- [ Strategic Context](#-strategic-context)
 - [Core Areas](#-core-areas)
 - [Course Weekly Roadmap](#-course-weekly-roadmap)
 - [High‑Level System Architecture](#️-high-level-system-architecture)
@@ -141,6 +140,8 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 
 ## [Repository Overview]()
 
+<br>
+
 This main hub repository represents a **complete cybersecurity and data intelligence framework**, integrating:
 
 [-]()  Cybersecurity and threat detection  
@@ -149,21 +150,43 @@ This main hub repository represents a **complete cybersecurity and data intellig
 [-]()  APIs, Web Services, and distributed systems  
 [-]()  Real‑world financial and OSINT data  
 
+<br>
+
 Designed as an [**end‑to‑end secure pipeline**](), bridging academic knowledge with real‑world applications in the context of the course [**Cybersecurity and Social Engineering**]().
 
 
 <br><br>
 
 
+## [Strategic Context]()
+
+<br>
+
+PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated Bloomberg laboratory on campus, which provides access to Bloomberg data, terminals and APIs for students and faculty.
+
+This creates a **rare academic environment** where cybersecurity, AI, and financial intelligence converge, enabling projects that combine Bloomberg academic APIs with public data sources such as the Central Bank of Brazil.
 
 
+<br><br>
 
 
+##  [Core Areas]()
+
+<br>
+
+- Cybersecurity Engineering  
+- Social Engineering Analysis  
+- AI Security & Adversarial Systems  
+- Ethical Hacking & Threat Modeling  
+- Data Science & Web Intelligence  
+- Distributed Systems & APIs
+
+<br>
+
+These core areas align with the official syllabus topics such as information security, distributed systems, Web Services, Big Data, NoSQL and Spark.[file:1
 
 
-
-
-
+<br><br>
 
 
 
