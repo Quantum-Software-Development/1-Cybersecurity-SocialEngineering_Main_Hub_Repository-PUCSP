@@ -116,12 +116,18 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 
 <!-- ======================================= 🏄‍♀️ Start BODY ===========================================  -->
 
+
 ## Table of Contents
 
+- [Course Overview](#course-overview)
+- [Repository Overview](#-repository-overview)
+- [ Strategic Context](#-strategic-context)
+- [Core Areas](#-core-areas)
+- [Course Weekly Roadmap](#-course-weekly-roadmap)
+- [High‑Level System Architecture](#️-high-level-system-architecture)
 - [Course Information](#course-information)
 - [Syllabus (Short Version)](#syllabus-short-version)
 - [Learning Objectives](#learning-objectives)
-- [Course Weekly Roadmap](#course-weekly-roadmap)
 - [Official Extension Project (Project Integrator 1 – 2 Subprojects)](#official-extension-project-project-integrator-1--2-subprojects)
   - [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction](#stage-1--consuming-third-party-apis-dashboards-and-prediction)
   - [Stage 2 – RESTful API Built on a SQL Database (Extension Requirement)](#stage-2--restful-api-built-on-a-sql-database-extension-requirement)
@@ -132,16 +138,19 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 - [Suggested Folder Structure (Planned)](#suggested-folder-structure-planned)
 
 
-
-
-
-
-
-
-
-
-
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 <br><br>
