@@ -242,6 +242,12 @@ flowchart LR
     F --> G["Dashboards, Reports & Applications"]
 ```
 
+
+> [!TIP]
+> 
+> This architecture illustrates the intended flow for the integrator and lab projects: from external data sources to secure APIs and dashboards.<br>
+> 
+
 <br><br>
 
 
