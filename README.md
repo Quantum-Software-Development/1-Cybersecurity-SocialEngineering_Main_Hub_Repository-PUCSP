@@ -218,7 +218,7 @@ These core areas align with the official syllabus topics such as [information se
 <br><br>
 
 
-## 🏗️ High‑Level System Architecture
+## [High‑Level System Architecture]()
 
 
 <br>
@@ -241,6 +241,8 @@ flowchart LR
     E --> F["Secure REST API"]
     F --> G["Dashboards, Reports & Applications"]
 ```
+
+<br><br>
 
 
 
