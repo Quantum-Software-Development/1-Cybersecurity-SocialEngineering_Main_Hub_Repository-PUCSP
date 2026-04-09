@@ -218,6 +218,29 @@ These core areas align with the official syllabus topics such as [information se
 <br><br>
 
 
+## 🏗️ High‑Level System Architecture
+
+
+<br>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {
+  'primaryColor': '#020617',
+  'primaryTextColor': '#e2e8f0',
+  'primaryBorderColor': '#14b8a6',
+  'lineColor': '#14b8a6',
+  'fontSize': '14px'
+}}}%%
+
+flowchart LR
+
+    A["Bloomberg / Public APIs / OSINT Sources"] --> B["Data Ingestion"]
+    B --> C["Processing & Feature Engineering"]
+    C --> D["SQL / NoSQL Storage"]
+    D --> E["Machine Learning & Anomaly Detection"]
+    E --> F["Secure REST API"]
+    F --> G["Dashboards, Reports & Applications"]
+```
 
 
 
