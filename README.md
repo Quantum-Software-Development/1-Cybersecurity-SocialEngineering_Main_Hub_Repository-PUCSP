@@ -189,19 +189,19 @@ These core areas align with the official syllabus topics such as [information se
 <br><br>
 
 
-## Course Weekly Roadmap
+## [Course Weekly Roadmap]()
 
 <br>
 
-| Week | Topics | Notes |
+| [Week]() | [Topics]() | [Notes]() |
 |------|--------|-------|
-| 1 | Course introduction, bibliography, grading criteria, **information security problems**, project management. | Opening and context. |
-| 2 | **Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format. | Technical foundations. |
-| 3 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project. |
-| 4 | Data project methodology (e.g., CRISP‑DM). | Data mining methodology.|
-| 5 | Project support (API + data analysis). | Follow-up. |
-| 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review.|
-| 7 | Building dashboards in Python and Streamlit. | Dashboard construction. |
+| 1 | [Course introduction, bibliography, grading criteria, **information security problems**, project management.]() | Opening and context. |
+| 2 | [**Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format.]() | Technical foundations. |
+| 3 | [RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots.]() | Start of API-based project. |
+| 4 | [Data project methodology (e.g., CRISP‑DM).]() | Data mining methodology.|
+| 5 | [Project support (API + data analysis).]() | Follow-up. |
+| 6 | [Consuming Web Services, Building APIs using Flask.]() | Tools review.|
+| 7 | [Building dashboards in Python and Streamlit.]() | Dashboard construction. |
 | 8 | Group presentations of the WebService project. | 1st project evaluation. |
 | 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project.|
 | 10 | Big Data concepts. | Theory.|
