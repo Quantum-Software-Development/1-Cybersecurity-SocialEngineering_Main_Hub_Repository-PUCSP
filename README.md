@@ -201,7 +201,7 @@ These core areas align with the official syllabus topics such as [information se
 | 4 | Data project methodology (e.g., CRISP‑DM). | Data mining methodology.|
 | 5 | Project support (API + data analysis). | Follow-up. |
 | 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review.|
-| 7 | Building dashboards in Python. | Dashboard construction. |
+| 7 | Building dashboards in Python and Streamlit. | Dashboard construction. |
 | 8 | Group presentations of the WebService project. | 1st project evaluation. |
 | 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project.|
 | 10 | Big Data concepts. | Theory.|
