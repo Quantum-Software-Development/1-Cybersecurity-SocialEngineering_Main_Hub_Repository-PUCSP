@@ -1,0 +1,118 @@
+cliente;codigoconcessao;situacaopagamento;tempodeatraso;situacao;valorcredito;perda;outros;idade;renda;numfilhos;estadocivil;regiao;possuiresidencia;gastoscartao
+1;7616;Normal;0;Adimplente;3520,00;0,00;masculino;38;2;0;0;C;0;1184,05
+2;281;Em atraso;95;Inadimplente;1046,85;866,80;feminino;22;2;1;1;A;0;1472,26
+3;282;Normal;0;Adimplente;4550,00;0,00;masculino;29;3;0;1;B;1;1855,63
+4;7889;Em atraso;106;Inadimplente;2625,00;2100,00;feminino;21;3;1;0;D;0;3052,43
+5;283;Normal;0;Adimplente;1200,00;0,00;feminino;22;1;0;1;C;1;3603,92
+6;284;Em atraso;77;Inadimplente;4150,00;2905,00;feminino;24;2;3;1;B;1;880,64
+7;3230;Normal;0;Adimplente;3000,00;0,00;masculino;23;2;0;0;A;1;239,19
+8;285;Normal;0;Adimplente;2960,00;0,00;masculino;29;1;2;1;C;0;2089,62
+9;286;Normal;0;Adimplente;1850,00;0,00;masculino;35;1;2;1;A;1;320,76
+10;3231;Normal;0;Adimplente;6000,00;0,00;feminino;32;3;2;0;B;1;1083,68
+11;287;Normal;0;Adimplente;4440,00;0,00;feminino;22;1;1;0;A;0;1310,01
+12;288;Em atraso;130;Inadimplente;1545,00;1390,50;feminino;22;3;0;1;B;0;2451,61
+13;289;Normal;0;Adimplente;1050,00;0,00;feminino;23;1;0;1;C;1;268,21
+14;290;Normal;0;Adimplente;1623,00;0,00;feminino;31;1;2;0;A;1;2149,22
+15;291;Em atraso;88;Inadimplente;3045,00;2131,50;masculino;21;3;1;1;B;0;979,22
+16;7519;Em atraso;65;Inadimplente;4214,00;2949,80;masculino;25;2;0;1;C;1;1587,37
+17;292;Normal;0;Adimplente;3835,50;0,00;feminino;33;1;0;0;D;1;773,97
+18;293;Normal;0;Adimplente;4040,00;0,00;masculino;25;2;2;0;C;0;1779,03
+19;294;Em atraso;72;Inadimplente;2354,00;1647,80;feminino;26;1;0;1;D;1;865,09
+20;295;Normal;0;Adimplente;1894,50;0,00;masculino;24;1;1;1;C;0;922,05
+21;3233;Normal;0;Adimplente;2600,00;0,00;feminino;31;1;1;0;A;0;1474,79
+22;3234;Normal;0;Adimplente;5200,00;0,00;masculino;33;3;1;1;C;1;2924,42
+23;296;Normal;0;Adimplente;4600,00;0,00;masculino;42;2;1;1;B;0;247,01
+24;3235;Normal;0;Adimplente;2000,00;0,00;masculino;29;1;3;0;C;0;2103,61
+25;7670;Normal;0;Adimplente;1700,00;0,00;masculino;21;1;0;0;A;1;392,38
+26;297;Em atraso;98;Inadimplente;4700,00;3290,00;masculino;24;3;1;1;D;0;1849,54
+27;298;Em atraso;69;Inadimplente;3500,00;2450,00;feminino;22;1;3;0;B;1;849,67
+28;299;Normal;0;Adimplente;3300,00;0,00;feminino;24;1;2;1;C;0;510,15
+29;300;Normal;0;Adimplente;5300,00;0,00;feminino;32;1;2;0;C;1;2490,97
+30;7589;Em atraso;101;Inadimplente;6900,00;5520,00;feminino;21;3;3;1;C;0;781,62
+31;301;Normal;0;Adimplente;2170,00;0,00;feminino;30;1;1;0;C;0;1081,27
+32;302;Em atraso;65;Inadimplente;1275,00;892,50;feminino;23;1;1;0;A;1;2702,46
+33;303;Normal;0;Adimplente;3444,00;0,00;masculino;25;1;0;1;D;1;3655,40
+34;304;Normal;0;Adimplente;2865,00;0,00;feminino;30;2;0;1;A;0;2098,23
+35;3237;Normal;0;Adimplente;4325,00;0,00;masculino;33;1;1;1;C;1;861,92
+36;305;Normal;0;Adimplente;2785,00;0,00;masculino;25;2;1;0;A;0;1540,89
+37;306;Normal;0;Adimplente;6025,00;0,00;feminino;26;3;2;1;A;0;592,07
+38;307;Em atraso;72;Inadimplente;4500,00;3150,00;feminino;29;3;2;1;C;1;1397,72
+39;308;Normal;0;Adimplente;2245,00;0,00;feminino;23;1;0;0;D;0;1092,53
+40;309;Normal;0;Adimplente;2755,00;0,00;masculino;29;1;0;1;B;0;1368,74
+41;310;Em atraso;145;Inadimplente;5490,00;4941,00;feminino;23;3;1;1;D;1;886,31
+42;311;Normal;0;Adimplente;4325,00;0,00;masculino;26;2;1;1;C;1;2524,49
+43;312;Normal;0;Adimplente;3520,00;0,00;masculino;27;1;1;0;A;0;1692,94
+44;313;Em atraso;95;Inadimplente;1046,85;817,80;masculino;32;1;0;1;C;1;1473,13
+45;314;Em atraso;106;Inadimplente;4550,00;3640,00;feminino;29;3;3;1;D;0;1822,33
+46;3239;Normal;0;Adimplente;2625,00;0,00;masculino;32;2;0;0;A;1;457,01
+47;1954;Normal;0;Adimplente;1200,00;0,00;masculino;22;1;3;0;C;1;2226,35
+48;7761;Normal;0;Adimplente;4150,00;0,00;masculino;24;1;0;1;B;1;2177,34
+49;315;Em atraso;112;Inadimplente;3000,00;2523,00;feminino;23;3;0;0;D;1;1165,61
+50;7656;Normal;0;Adimplente;2960,00;0,00;masculino;29;1;0;0;B;0;854,90
+51;7731;Normal;0;Adimplente;1850,00;0,00;feminino;35;1;0;1;D;1;584,10
+52;3436;Normal;0;Adimplente;6000,00;0,00;masculino;32;1;3;1;C;1;208,51
+53;316;Normal;0;Adimplente;4440,00;0,00;feminino;22;1;3;1;A;0;87,45
+54;317;Em atraso;130;Inadimplente;1545,00;1471,00;masculino;31;2;2;1;A;0;1457,03
+55;318;Normal;0;Adimplente;1050,00;0,00;masculino;23;1;0;0;D;0;273,84
+56;3241;Normal;0;Adimplente;1623,00;0,00;masculino;31;1;1;0;C;0;926,71
+57;319;Normal;0;Adimplente;3045,00;0,00;masculino;36;1;0;1;A;1;1584,30
+58;320;Em atraso;65;Inadimplente;4200,00;2940,00;feminino;25;1;2;1;D;1;529,35
+59;321;Normal;0;Adimplente;3835,50;0,00;feminino;33;1;0;0;C;0;621,17
+60;322;Normal;0;Adimplente;4040,00;0,00;masculino;29;2;2;0;C;0;404,82
+61;323;Em atraso;72;Inadimplente;2354,00;1647,80;feminino;26;3;1;1;A;1;1704,67
+62;324;Em atraso;89;Inadimplente;1894,50;1470,15;masculino;24;1;1;0;B;0;1383,88
+63;325;Normal;0;Adimplente;2600,00;0,00;masculino;31;1;2;0;B;1;497,74
+64;326;Em atraso;105;Inadimplente;5200,00;4160,00;feminino;25;3;1;1;C;1;2491,68
+65;3242;Normal;0;Adimplente;4600,00;0,00;masculino;42;1;3;1;C;0;2924,53
+66;7617;Normal;0;Adimplente;2000,00;0,00;masculino;29;1;0;1;A;1;470,04
+67;327;Normal;0;Adimplente;1700,00;0,00;feminino;31;1;1;0;B;1;1045,96
+68;7735;Em atraso;98;Inadimplente;4750,00;3325,00;feminino;26;2;0;0;A;0;575,60
+69;7736;Em atraso;69;Inadimplente;3500,00;2450,00;masculino;27;1;2;0;D;0;1241,39
+70;3243;Normal;0;Adimplente;3300,00;0,00;masculino;24;1;2;0;C;1;2457,67
+71;328;Normal;0;Adimplente;5300,00;0,00;masculino;32;2;1;1;C;1;1837,87
+72;3463;Em atraso;101;Inadimplente;4850,00;3880,00;masculino;23;2;2;0;A;0;6217,34
+73;329;Normal;0;Adimplente;3170,00;0,00;masculino;35;1;2;1;B;1;646,81
+74;331;Normal;0;Adimplente;1275,00;0,00;masculino;27;3;1;0;A;1;921,46
+75;332;Normal;0;Adimplente;3444,00;0,00;masculino;42;1;2;1;C;1;1583,06
+76;3244;Normal;0;Adimplente;2865,00;0,00;masculino;36;2;2;0;C;1;2763,60
+77;333;Normal;0;Adimplente;4325,00;0,00;masculino;33;1;1;0;A;1;1944,15
+78;1955;Em atraso;85;Inadimplente;3599,00;2519,30;masculino;21;2;1;0;B;0;823,58
+79;7658;Normal;0;Adimplente;5800,00;0,00;masculino;21;3;0;0;A;1;1319,70
+80;7659;Normal;0;Adimplente;2750,00;0,00;masculino;27;3;1;1;C;1;817,75
+81;3245;Normal;0;Adimplente;3599,00;0,00;feminino;21;2;0;0;C;1;490,97
+82;334;Normal;0;Adimplente;5800,00;0,00;feminino;21;3;1;0;B;0;1475,81
+83;1956;Normal;0;Adimplente;2750,00;0,00;masculino;27;3;1;0;A;1;708,25
+84;335;Normal;0;Adimplente;1850,00;0,00;feminino;31;1;0;0;A;0;263,66
+85;336;Normal;0;Adimplente;3150,00;0,00;masculino;22;1;3;0;D;0;322,47
+86;3246;Em atraso;77;Inadimplente;2455,00;1718,50;masculino;51;1;0;1;B;1;188,13
+87;1957;Normal;0;Adimplente;950,00;0,00;masculino;23;1;0;0;D;0;3383,65
+88;3438;Normal;0;Adimplente;1623,00;0,00;masculino;31;1;1;1;A;0;741,60
+89;3465;Normal;0;Adimplente;3045,00;0,00;masculino;36;1;0;1;B;1;617,34
+90;3209;Em atraso;95;Inadimplente;4350,00;3045,00;feminino;25;1;2;1;D;1;216,07
+91;337;Normal;0;Adimplente;3835,50;0,00;feminino;33;1;3;1;C;0;2034,46
+92;3466;Normal;0;Adimplente;3140,00;0,00;masculino;29;2;0;1;C;0;1955,14
+93;3467;Em atraso;62;Inadimplente;2354,00;1647,80;feminino;26;1;1;0;A;1;1598,27
+94;6679;Em atraso;79;Inadimplente;1894,50;1326,15;masculino;25;1;2;0;B;1;576,07
+95;3211;Normal;0;Adimplente;2600,00;0,00;masculino;31;1;1;1;A;1;3785,43
+96;1959;Em atraso;81;Inadimplente;4955,00;3468,50;feminino;24;2;1;0;B;1;1116,00
+97;3468;Normal;0;Adimplente;4655,00;0,00;masculino;58;1;3;1;D;1;236,31
+98;1961;Normal;0;Adimplente;2000,00;0,00;masculino;29;1;2;0;A;0;2522,95
+99;1962;Normal;0;Adimplente;1800,00;0,00;feminino;31;1;2;1;B;0;43,19
+100;1963;Em atraso;108;Inadimplente;4700,00;3760,00;feminino;27;2;1;1;C;1;919,97
+101;3213;Em atraso;89;Inadimplente;3225,00;2257,50;masculino;26;2;1;0;B;0;1357,42
+102;338;Normal;0;Adimplente;3300,00;0,00;masculino;24;1;2;1;C;0;2829,66
+103;3214;Normal;0;Adimplente;4300,00;0,00;masculino;32;2;0;1;C;1;654,58
+104;339;Em atraso;111;Inadimplente;3335,00;2668,00;masculino;39;2;3;1;A;1;2437,81
+105;340;Normal;0;Adimplente;870,00;0,00;masculino;34;1;1;1;B;1;222,84
+106;341;Normal;0;Adimplente;2275,00;0,00;masculino;27;3;0;1;B;1;947,30
+107;1965;Normal;0;Adimplente;3444,00;0,00;masculino;62;1;3;1;C;0;1472,78
+108;3215;Normal;0;Adimplente;2865,00;0,00;masculino;36;2;1;1;C;0;1659,40
+109;342;Normal;0;Adimplente;4325,00;0,00;masculino;33;1;1;0;A;0;613,99
+110;343;Em atraso;105;Inadimplente;3750,00;3152,00;masculino;21;1;1;0;B;1;1001,37
+111;2260;Normal;0;Adimplente;5545,00;0,00;masculino;21;3;0;0;A;1;1314,46
+112;1966;Normal;0;Adimplente;2750,00;0,00;masculino;27;3;1;0;B;0;445,99
+113;1967;Normal;0;Adimplente;3599,00;0,00;feminino;21;2;0;0;C;0;307,29
+114;344;Normal;0;Adimplente;4800,00;0,00;feminino;21;3;0;0;B;1;1138,49
+115;345;Normal;0;Adimplente;2750,00;0,00;masculino;27;3;0;1;D;1;639,46
+116;346;Normal;0;Adimplente;2105,00;0,00;feminino;31;1;3;0;A;0;2903,77
+117;1825;Normal;0;Adimplente;3150,00;0,00;masculino;22;1;1;0;D;0;3490,99

@@ -1,0 +1,15 @@
+;;;;;;;;
+;             VARIÁVEIS;;;;;;;
+;situacaopagamento:;;"Situação de pagamento do empréstimo tomado pelo cliente (0 = normal; 1 = em atraso)";;;;;
+;tempodeatraso:;;Período de tempo que o cliente está atrasado com o pagamento (em dias);;;;;
+;situacao:;;Situação de pagamento do empréstimo tomado pelo cliente: adimplente ou inadimplente;;;;;
+;valorcredito:;;Valor do empréstimo tomado pelo cliente (em R$);;;;;
+;perda:;;Perda estimada do banco (em R$) com o não pagamento do cliente (quantidade de parcelas em atraso+atualização monetária);;;;;
+;sexo:;;masculino ou feminino;;;;;
+;idade:;;Idade do cliente;;;;;
+;renda:;;"1 = 0,00 a 5.000,00; 2 = 5.001,00 a 10.000,00; 3 = maior que 10.000,00";;;;;
+;numfilhos:;;Número de filhos;;;;;
+;estadocivil:;;"Estado civil (0 = solteiro; 1 = casado)";;;;;
+;regiao:;;Região de residência (A, B, C e D);;;;;
+;possuiresidencia:;;"Indicador se o cliente possui residência própria (0 = não; 1 = sim)";;;;;
+;gastoscartao:;;Gastos mensais do cliente com cartão de crédito;;;;;
