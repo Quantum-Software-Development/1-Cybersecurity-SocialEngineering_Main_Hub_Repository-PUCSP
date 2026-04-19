@@ -202,7 +202,7 @@ These core areas align with the official syllabus topics such as [information se
 | 5 | [Project support (API + data analysis).]() | Follow-up. |
 | 6 | [Consuming Web Services, Building APIs using Flask.]() | Tools review.|
 | 7 | [Building dashboards in Python and Streamlit.]() | Dashboard construction. |
-| 8 | Group presentations of the WebService project. | 1st project evaluation. |
+| 8 | [Flask_WebService_SQL - Project]() | 1st project evaluation. |
 | 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project.|
 | 10 | Big Data concepts. | Theory.|
 | 11 | NoSQL databases. | Non-relational models.|
