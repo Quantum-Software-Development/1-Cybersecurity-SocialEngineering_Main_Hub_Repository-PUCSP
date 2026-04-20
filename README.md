@@ -290,11 +290,10 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 ### ***[Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction***]()
 
-
 > [**Theme:**]() Consuming APIs for data analysis and prediction using Web Services.
 
-<br>
 
+<br>
 
 - [Typical steps for the group]():
 
@@ -310,10 +309,18 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 <br><br>
 
+- [Expected deliverables]():
+
+[-]() Notebook (Colab/Jupyter) with all code used in the project.
+[-]() Data set (if applicable).
+[-]() SQL database dump.
+[-]() PDF report with team, topic, objectives, API and data references, SQL schema and explanation of analyses, plots and AI techniques used.
+[-]() Presentation (.pptx) summarizing the report.
+
+This stage counts towards the **20 extension hours**, since it uses real or open data APIs in market or social contexts
 
 
-
-
+<br><br>
 
 
 
