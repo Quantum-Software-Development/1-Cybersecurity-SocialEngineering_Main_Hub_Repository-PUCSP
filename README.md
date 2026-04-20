@@ -307,7 +307,7 @@ The **official extension project** of this course is a **Project Integrator** fo
 [6](). Apply [**AI / ML techniques**]() to generate predictions when possible.
 
 
-<br><br>
+<br>
 
 - [Expected deliverables]():
 
@@ -317,7 +317,9 @@ The **official extension project** of this course is a **Project Integrator** fo
 [-]() PDF report with team, topic, objectives, API and data references, SQL schema and explanation of analyses, plots and AI techniques used. <br>
 [-]() Presentation (.pptx) summarizing the report.
 
-This stage counts towards the **20 extension hours**, since it uses real or open data APIs in market or social contexts
+<br>
+
+> This stage counts towards the **20 extension hours**, since it uses real or open data APIs in market or social contexts
 
 
 <br><br>
