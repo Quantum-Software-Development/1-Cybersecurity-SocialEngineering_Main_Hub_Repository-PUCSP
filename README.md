@@ -259,6 +259,27 @@ The course also discusses modern security practices, including principles aligne
 
 <br><br>
 
+## [Learning Objectives]()
+
+### [***General objective***]()
+
+Enable students to **understand, model and analyze information systems and data** in security-related contexts, identifying vulnerabilities, risks and protection strategies, grounded in database, distributed systems and cybersecurity concepts.
+
+<br>
+
+### [***Specific objectives***]()
+
+By the end of the course, students should be able to:
+
+[-]() Understand **information security problems** and propose mitigation measures related to user behavior and project management.
+[-]() Understand **distributed systems**, client–server architecture, HTTP servers and **REST/JSON APIs**.
+[-]() Apply structured data project methodologies (such as CRISP‑DM) to cybersecurity and social engineering contexts.
+[-]() Consume **Web Services / APIs**, process data and create visualizations (NumPy, Pandas, Plotly, Seaborn, etc.).
+[-]() Understand **Big Data, NoSQL, Hadoop and Spark** and their role in large-scale data processing in security scenarios.
+[-]() Develop and present **group projects** involving data acquisition, processing, visualization and prediction from Web Services.
+
+
+<br><br>
 
 
 
