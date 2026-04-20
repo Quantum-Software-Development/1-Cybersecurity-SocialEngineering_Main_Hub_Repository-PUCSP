@@ -311,10 +311,10 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 - [Expected deliverables]():
 
-[-]() Notebook (Colab/Jupyter) with all code used in the project.
-[-]() Data set (if applicable).
-[-]() SQL database dump.
-[-]() PDF report with team, topic, objectives, API and data references, SQL schema and explanation of analyses, plots and AI techniques used.
+[-]() Notebook (Colab/Jupyter) with all code used in the project. <br>
+[-]() Data set (if applicable). <br>
+[-]() SQL database dump. <br>
+[-]() PDF report with team, topic, objectives, API and data references, SQL schema and explanation of analyses, plots and AI techniques used. <br>
 [-]() Presentation (.pptx) summarizing the report.
 
 This stage counts towards the **20 extension hours**, since it uses real or open data APIs in market or social contexts
