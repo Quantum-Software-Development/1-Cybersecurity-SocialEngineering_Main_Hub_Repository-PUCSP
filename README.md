@@ -328,11 +328,11 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 The second subproject requires building an API using RESTful architecture on top of a SQL database with at least three tables.
 
-**Objective:** design and implement a **SQL database (≥ 3 tables)** and expose processed/aggregated data through a **RESTful Web Service**.
+[**Objective:**]() design and implement a **SQL database (≥ 3 tables)** and expose processed/aggregated data through a **RESTful Web Service**.
 
 <br>
 
-Main tasks:
+[Main tasks]():
 
 [-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.). <br>
 [-]() Design the **SQL database** with at least 3 tables and produce its dump. <br>
