@@ -348,7 +348,7 @@ Main tasks:
 [-]() `extension_official/stage2_rest_api_sql/`
     [-]() SQL schema (DDL + ER/diagram).
     [-]() RESTicial **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.ful API implementation (e.g., FastAPI, Flask, Django REST).
-    [-]) Documentation of endpoints, parameters, responses and basic security considerations.
+    [-]() Documentation of endpoints, parameters, responses and basic security considerations.
 
 <br>
 
