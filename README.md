@@ -282,10 +282,36 @@ By the end of the course, students should be able to:
 <br><br>
 
 
+## [Official Extension Project (Project Integrator 1 – 2 Subprojects)]()
+
+The **official extension project** of this course is a **Project Integrator** for the first bimester, focused on “data analysis and prediction from Web Services”, composed of **two subprojects (two stages)**.
+
+<br>
 
 
+### [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction]()
+
+<br>
 
 
+**Theme:** Consuming APIs for data analysis and prediction using Web Services.
+
+<br>
+
+
+[Typical steps for the group]():
+
+<br>
+
+[1](). Identify APIs of interest that provide data suitable for analysis and prediction.
+[2](). Consume the APIs and generate in‑memory data tables.
+[3](). Process the data applying filters, aggregations and totals.
+[4](). Store filtered data in a **SQL database**.
+[5](). Develop a **dashboard** to present the results.
+[6](). Apply **AI / ML techniques** to generate predictions when possible.
+
+
+<br><br>
 
 
 
