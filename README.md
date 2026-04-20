@@ -288,27 +288,24 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 <br>
 
-
-### [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction]()
-
-<br>
+### ***[Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction***]()
 
 
-**Theme:** Consuming APIs for data analysis and prediction using Web Services.
+> [**Theme:**]() Consuming APIs for data analysis and prediction using Web Services.
 
 <br>
 
 
-[Typical steps for the group]():
+- [Typical steps for the group]():
 
 <br>
 
-[1](). Identify APIs of interest that provide data suitable for analysis and prediction.
-[2](). Consume the APIs and generate in‑memory data tables.
-[3](). Process the data applying filters, aggregations and totals.
-[4](). Store filtered data in a **SQL database**.
-[5](). Develop a **dashboard** to present the results.
-[6](). Apply **AI / ML techniques** to generate predictions when possible.
+[1](). Identify APIs of interest that provide data suitable for analysis and prediction. <br>
+[2](). Consume the APIs and generate in‑memory data tables. <br>
+[3](). Process the data applying filters, aggregations and totals. <br>
+[4](). Store filtered data in a [**SQL database**](). <br>
+[5](). Develop a [**dashboard**]() to present the results. <br>
+[6](). Apply [**AI / ML techniques**]() to generate predictions when possible.
 
 
 <br><br>
