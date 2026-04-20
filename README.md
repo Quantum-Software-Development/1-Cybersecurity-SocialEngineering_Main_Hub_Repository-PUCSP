@@ -324,6 +324,48 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 <br><br>
 
+### [Stage 2 – RESTful API Built on a SQL Database (Extension Requirement)]()
+
+The second subproject requires building an API using RESTful architecture on top of a SQL database with at least three tables.
+
+**Objective:** design and implement a **SQL database (≥ 3 tables)** and expose processed/aggregated data through a **RESTful Web Service**.
+
+<br>
+
+Main tasks:
+
+[-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.).
+[-]() Design the **SQL database** with at least 3 tables and produce its dump.
+[-]() Implement a **RESTful API** exposing the processed and aggregated data required by the use case.
+[-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.
+
+
+<br>
+
+
+[Planned internal structure (you can rename when you implement it)]():
+
+[-]() `extension_official/stage2_rest_api_sql/`
+    [-]() SQL schema (DDL + ER/diagram).
+    [-]() RESTicial **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.ful API implementation (e.g., FastAPI, Flask, Django REST).
+    [-]) Documentation of endpoints, parameters, responses and basic security considerations.
+
+<br>
+
+
+> Together, **Stage 1 + Stage 2** form the off
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
