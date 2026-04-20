@@ -334,9 +334,9 @@ The second subproject requires building an API using RESTful architecture on top
 
 Main tasks:
 
-[-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.).
-[-]() Design the **SQL database** with at least 3 tables and produce its dump.
-[-]() Implement a **RESTful API** exposing the processed and aggregated data required by the use case.
+[-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.). <br>
+[-]() Design the **SQL database** with at least 3 tables and produce its dump. <br>
+[-]() Implement a **RESTful API** exposing the processed and aggregated data required by the use case. <br>
 [-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.
 
 
@@ -345,9 +345,9 @@ Main tasks:
 
 [Planned internal structure (you can rename when you implement it)]():
 
-[-]() `extension_official/stage2_rest_api_sql/`
-    [-]() SQL schema (DDL + ER/diagram).
-    [-]() RESTicial **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.ful API implementation (e.g., FastAPI, Flask, Django REST).
+[-]() `extension_official/stage2_rest_api_sql/` <br>
+    [-]() SQL schema (DDL + ER/diagram). <br>
+    [-]() RESTicial **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.ful API implementation (e.g., FastAPI, Flask, Django REST). <br>
     [-]() Documentation of endpoints, parameters, responses and basic security considerations.
 
 <br>
