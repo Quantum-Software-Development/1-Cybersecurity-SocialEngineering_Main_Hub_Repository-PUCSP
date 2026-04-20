@@ -288,7 +288,7 @@ The **official extension project** of this course is a **Project Integrator** fo
 
 <br>
 
-### ***[Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction***]()
+### [***Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction***]()
 
 > [**Theme:**]() Consuming APIs for data analysis and prediction using Web Services.
 
