@@ -14,7 +14,7 @@
 
 
 <!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
+#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() /  [Hub Repository]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
  
 <br><br>
