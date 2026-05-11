@@ -197,7 +197,7 @@ These core areas align with the official syllabus topics such as [information se
 | 6 | [Consuming Web Services, Building APIs using Flask.]() | Tools review.|
 | 7 | [Building dashboards in Python and Streamlit.]() | Dashboard construction. |
 | 8 | [Flask_WebService_SQL - Project]() | 1st project evaluation. |
-| 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project.|
+| 9 | [Presentation of the **final project statement**](https://github.com/Quantum-Software-Development/4-cybersecurity-social-engineering-project-ai-risk-intelligence-financial-incidents-analytics). | Launch of final project.|
 | 10 | Big Data concepts. | Theory.|
 | 11 | NoSQL databases. | Non-relational models.|
 | 12 | Hadoop ecosystem. | Distributed processing. |
